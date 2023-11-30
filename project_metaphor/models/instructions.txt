@@ -1,0 +1,29 @@
+This is an instruction to run the s bert multi task experiments 
+
+python3 run_multitaskexperiments.py
+
+You shall see input prompts one after the other:
+
+Epochs [Options: 0 - 6]:
+6
+
+Enter Train Batch Size [Options: 16 - 32]:
+Enter 16 or 32. You can also see on 4 or 8. 
+
+xAll [0 or 1]:
+Always 0. 1 would mean you are adding commonsense knowledge which we do not want to test with now. 
+
+Enter test data [Options: 0 - 4]:
+0
+Always 0. This is the main dev data patha. Others are partitions of the data set. 
+
+Enter downstream task: [Options: 'hghl' for highlighted aspects and 'scm' for Source Domains]:
+Enter which task you want to predict. For example: 
+'hghl'
+
+Enter eval subset [Options: 'dev' or 'test']:
+dev (enter dev) test set is dealt in inference.py
+
+Enter specifi output folder path [Example: 'banana' or 'distillbert6epochexperiment']:
+your_folder_name
+

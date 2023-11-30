@@ -1,0 +1,85 @@
+Label	 Correct	 Total	 Accuracy
+Protection	 11	 14	 78.57142857142857
+Enslavement	 3	 4	 75.0
+Competition/War	 1	 3	 33.33333333333333
+Science	 1	 1	 100.0
+Physical Burden	 2	 4	 50.0
+Abyss	 1	 3	 33.33333333333333
+Struggle/War	 4	 11	 36.36363636363637
+Struggle	 9	 22	 40.909090909090914
+Physical Harm	 11	 19	 57.89473684210527
+Parasite	 1	 1	 100.0
+Forward Movement	 9	 10	 90.0
+Disease/Medicine/Physical Burden	 0	 1	 0.0
+Downward Movement	 3	 3	 100.0
+Natural Physical Force	 0	 5	 0.0
+Competition	 4	 14	 28.57142857142857
+Disease/Physical Burden	 0	 1	 0.0
+A God	 16	 17	 94.11764705882352
+Crop/Plant	 1	 2	 50.0
+Building/Strength	 4	 10	 40.0
+Medicine	 3	 5	 60.0
+Hazardous Geographic Feature	 3	 4	 75.0
+War	 5	 10	 50.0
+Factory/Resource	 0	 1	 0.0
+Addiction	 2	 3	 66.66666666666666
+Pathway	 1	 1	 100.0
+Crime/Theft	 1	 6	 16.666666666666664
+Animal/Plant/Science	 0	 1	 0.0
+Physical Location/Upward Movement	 0	 1	 0.0
+Life Stage	 4	 6	 66.66666666666666
+Theft	 4	 4	 100.0
+Plant	 0	 5	 0.0
+Game	 1	 3	 33.33333333333333
+Building/Science	 0	 1	 0.0
+Human Body	 0	 2	 0.0
+Competition/Game/Struggle	 0	 2	 0.0
+Crime	 4	 12	 33.33333333333333
+Upward Movement	 3	 4	 75.0
+Downward Movement/Physical Burden	 1	 1	 100.0
+High Location	 1	 2	 50.0
+A God/Story	 1	 1	 100.0
+Building	 2	 8	 25.0
+Resource	 0	 5	 0.0
+Story	 1	 1	 100.0
+A Right	 0	 2	 0.0
+Body of Water	 2	 2	 100.0
+Medicine/Physical Burden	 0	 1	 0.0
+Competition/Struggle	 0	 2	 0.0
+Clothing	 2	 2	 100.0
+Factory	 3	 3	 100.0
+Monster	 3	 4	 75.0
+Physical Harm/Protection	 0	 2	 0.0
+Competition/Game	 1	 4	 25.0
+Machine	 0	 1	 0.0
+Fire/Light	 0	 1	 0.0
+Temperature	 0	 2	 0.0
+Animal	 3	 4	 75.0
+Forceful Extraction	 0	 1	 0.0
+Blood Stream	 0	 1	 0.0
+Energy/Machine	 0	 2	 0.0
+Enslavement/Leader	 0	 1	 0.0
+Business	 4	 4	 100.0
+Contamination/Crime	 1	 2	 50.0
+Confinement	 0	 2	 0.0
+Natural Physical Force/Physical Harm	 2	 3	 66.66666666666666
+Protection/Struggle	 0	 1	 0.0
+Journey	 1	 1	 100.0
+Crop/Factory	 0	 1	 0.0
+Disease/Emotion Experiencer	 0	 1	 0.0
+Family	 1	 1	 100.0
+Upward Movement/Movement	 0	 1	 0.0
+Light	 2	 2	 100.0
+Disease	 1	 3	 33.33333333333333
+Crime/Physical Harm	 1	 2	 50.0
+Building/Natural Physical Force	 0	 1	 0.0
+Contamination	 0	 1	 0.0
+Crop	 1	 1	 100.0
+Food	 0	 1	 0.0
+Strength	 1	 1	 100.0
+Physical Location	 0	 1	 0.0
+Disease/Medicine	 0	 1	 0.0
+Barrier	 0	 1	 0.0
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+ 	 147	 301	 0.4883720930232558
